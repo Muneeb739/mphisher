@@ -12,24 +12,24 @@
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
 <a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/nexphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/htr-tech/mphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/nexphisher?color=red&style=flat-square"></a>
+<a href="https://github.com/htr-tech/mphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/nexphisher?color=red&style=flat-square"></a>
+<a href="https://github.com/htr-tech/mphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
-* `cd nexphisher`
+* `git clone git://github.com/htr-tech/mphisher.git`
+* `cd mphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+#### > Run : `bash mphisher`
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone git://github.com/htr-tech/mphisher.git ; cd mphisher ; bash setup ; bash mphisher
 ```
 <br>
 <p align="center">
@@ -49,7 +49,7 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 #### > DarkSecDevelopers (https://github.com/DarkSecDevelopers)
 #### > Undeadsec (https://github.com/Undeadsec)
 
-## Tunelling Options :
+## Tunelling Options : h
 #### > Localhost (127.0.0.1)
 #### > NGROK (https://ngrok.com)
 #### > SERVEO (https://serveo.net)
